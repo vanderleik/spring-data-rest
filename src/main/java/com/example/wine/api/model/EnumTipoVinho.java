@@ -1,6 +1,6 @@
 package com.example.wine.api.model;
 
-public enum EnumTipo {
+public enum EnumTipoVinho {
     BRANCO,
     TINTO,
     ROSE,
